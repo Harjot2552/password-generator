@@ -25,3 +25,28 @@ body{
     border-bottom: 4px solid #019f55;
     padding-bottom: 7px;
 }
+
+
+.display{
+    margin-top: 50px;
+    margin-bottom: 30px;
+    width: 100%;
+    background-color: white;
+    color: #333;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 26px 20px;
+    border-radius: 5px;
+}
+
+.display img{
+    width: 30px;
+    cursor: pointer;
+}
+
+.display input{
+    border: 0;
+    outline: 0;
+    font-size: 24px;
+}
